@@ -11,7 +11,7 @@ This repository documents my progress in learning Go from the basics to building
 
 - [x] Hello World
 - [ ] Variables
-- [ ] Data Types
+- [x] Data Types
 - [ ] Operators
 - [ ] If Else
 - [ ] Switch
