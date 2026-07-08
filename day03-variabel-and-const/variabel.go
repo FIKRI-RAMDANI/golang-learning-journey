@@ -27,4 +27,7 @@ func main() {
 		lastName  = "Ramdani"
 	)
 	fmt.Println(firstName, lastName)
+
+	fmt.Println(alamat)
+	fmt.Println(test)
 }
