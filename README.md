@@ -10,7 +10,7 @@ This repository documents my progress in learning Go from the basics to building
 ## Learning Progress
 
 - [x] Hello World
-- [ ] Variables
+- [x] Variables
 - [x] Data Types
 - [ ] Operators
 - [ ] If Else
